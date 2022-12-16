@@ -12,6 +12,6 @@ package actividad.holamundo;
 public class HolaMundo {
 
     public static void main(String[] args) {
-        System.out.println("Somos la fila 4");
+        System.out.println("Hola juan");
     }
 }
